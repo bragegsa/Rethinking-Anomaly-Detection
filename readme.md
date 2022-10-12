@@ -1,3 +1,7 @@
+# NOTE
+
+This code is cloned for testing puproses. Link to original code: https://github.com/squareRoot3/Rethinking-Anomaly-Detection
+
 # Rethinking Graph Neural Networks for Anomaly Detection
 
 This is the official implementation for the following paper:
